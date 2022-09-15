@@ -1,9 +1,8 @@
-import React, { Component } from 'react';
+import React from 'react';
 
-class Header extends Component {
-    render() {
-        return (
-            <header class="header-section">
+const Header = () => {
+    return (
+        <header class="header-section">
         {/* <a href="index.html" class="site-logo">
             <img src="./pages/home/assets/images/mobiloggo.png" alt="" style="height: 50px; width:50px;">
         </a> */}
@@ -29,8 +28,7 @@ class Header extends Component {
         </nav>
     </header>
     
-        );
-    }
-}
+    );
+};
 
 export default Header;

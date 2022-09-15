@@ -1,0 +1,32 @@
+{
+    "Menu": [
+        {
+            "title": "Home",
+            "url": "/Home"
+        },
+        {
+            "title": "About Us",
+            "url": "/About"
+        },
+        {
+            "title": "Individuals",
+            "url": "/"
+        },
+        {
+            "title": "Contact",
+            "url": "/Home"
+        }
+    ],
+"Services": [
+    {
+        "img": "image1",
+        "text": "Buying",
+        "description": "Lorem"
+    },
+    {
+        "img":"image2",
+        "text":"Buying",
+        "description":"Lorem" 
+    }
+]
+}
